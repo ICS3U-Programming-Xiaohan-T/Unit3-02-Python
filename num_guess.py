@@ -2,7 +2,7 @@
 """
 Created by: Xiaohan Tian
 Created on: Mar 18, 2025
-This module holds constants
+This module check the numbers
 """
 
 import constants

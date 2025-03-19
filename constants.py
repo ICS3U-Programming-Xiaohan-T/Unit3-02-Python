@@ -6,4 +6,4 @@ This module holds constants
 """
 
 # constant definition
-CORRECT_NUMBER = 8
+CORRECT_NUMBER = 7
